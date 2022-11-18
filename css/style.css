@@ -12,13 +12,13 @@ th {text-align: center;}
   margin: 10rem 0 1.2rem;
   text-align: center;
   position: relative;
-  color: #000000;
+  color: #ffffff;
 }
 
 .section-heading{
-  background-image: url("https://i.gifer.com/LxYB.gif");
+  background-image: url("https://i.gifer.com/FSek.gif");
   background-size:cover;
-  color: #000000;
+  color: #F2F2F2;
 }
 
 .section-description-left{
@@ -34,16 +34,16 @@ th {text-align: center;}
 }
 
 .section-description-left{
-  background-color: #F2F2F2;  
+  background-color: #F2F2F2;
   color: ;
 }
 
 .text-center{
-  padding-top: 37%;
+  padding-top: 3%;
 }
 
 
 .showcase-img{
   position: relative;
-  max-height: 100%;
+  max-height: 50%;
 }
