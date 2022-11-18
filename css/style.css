@@ -1,6 +1,6 @@
 body {
   margin-bottom:60px;
-  background-color:#00000;
+  background-color:#000000;
   background-size:cover;
 }
 
@@ -16,6 +16,7 @@ a {text-decoration: none;}
 
 .section-heading{
   background-image: url("https://i.gifer.com/3ELb.gif");
+  background-size:cover;
   color: #F2F2F2;
 }
 
