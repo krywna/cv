@@ -1,13 +1,9 @@
 body {
   margin-bottom:60px;
-  background-color: #0D0D0D;}
-a {text-decoration: none;}
-table {
-  width: 650px;
-  margin: auto;
+  background-color: #0D0D0D;
 }
-td {text-align: center;}
-th {text-align: center;}
+
+a {text-decoration: none;}
 
 .section-heading{
   padding: 5rem 0 1.5rem;
