@@ -1,6 +1,8 @@
 body {
   margin-bottom:60px;
-  background-color: #0D0D0D;
+  background-image: url("https://i.gifer.com/3ELb.gif");
+  background-position: top 0px right 0px;
+  background-size:cover;
 }
 
 a {text-decoration: none;}
@@ -14,8 +16,6 @@ a {text-decoration: none;}
 }
 
 .section-heading{
-  background-image: url("https://i.gifer.com/3ELb.gif");
-  background-size:cover;
   color: #F2F2F2;
 }
 
@@ -32,7 +32,8 @@ a {text-decoration: none;}
 }
 
 .section-description-left{
-  background-color: #F2F2F2;
+  background-color: #ffffff;
+  opacity: 0.6;
   color: ;
 }
 
